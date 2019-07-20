@@ -15,7 +15,7 @@
   "author": "Hammad Mustafa",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/tohammad/todoapi.git"
+    "url": "git+ssh://git@github.com/tohammad/node-todo.git"
   },
   "license": "ISC",
   "dependencies": {
